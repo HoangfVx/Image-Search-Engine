@@ -7,3 +7,7 @@ tensorflow.keras.models.Model
 PIL.Image
 numpy
 pandas
+sklearn.neighbors.kneighbors_graph
+scipy.sparse
+sklearn.cluster.KMeans
+scipy.linalg
